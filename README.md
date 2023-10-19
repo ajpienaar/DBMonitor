@@ -26,7 +26,7 @@ This application monitors a specified database table for the addition of new tas
 1. Add the credentials of the database that will be monitored in the config file
 
 ### Create DB and Tables - open and run `tasks.sql` 
-1. Creates a DB and relevant tables (edit as needed)
+1. Creates a sample DB and relevant tables (edit as needed)
 2. Adds a triger to the member table that listens for new members added and sends the data to the pending tasks table,script listning for changes and triggers a slack message on new member
 
 ### Asana - open `create_asana_task.php` and edit:
