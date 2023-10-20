@@ -7,7 +7,6 @@ This application monitors a specified database table for the addition of new tas
 - [Features](#features)
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
